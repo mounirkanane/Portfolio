@@ -1,4 +1,4 @@
-# Mounir Kanane: Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+# Mounir Kanane: Portfolio Website with Nextjs, Tailwind CSS and Framer-motion (In Progress)🌟
 
 
 
